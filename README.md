@@ -14,5 +14,5 @@ This page will give you information of assignment.
 ## Assignment List
 
 - [Assignment 1](https://github.com/MindSKKU/NNE/blob/master/Assignment1)
-  Due: 18.03.
+  - Due: 18.03.30
 - Assignemnt 2
