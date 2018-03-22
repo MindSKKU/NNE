@@ -1,7 +1,7 @@
 # Neural Network Engineering
 This page will give you information of assignment.
 
-## TA conatct info
+## TA contact info
 
 - Sunghwan Joo
   - Office: 23215
