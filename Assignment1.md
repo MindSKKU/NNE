@@ -1,5 +1,8 @@
 # Assignment 1 - Softmax classifier
 ****
+## News
+None
+
 ## Notification
 ### 1. Due
 18.04.02(Mon)
@@ -66,6 +69,3 @@
   - late:     -10 point/days
   - Wrong form: -5 point/each
 
-
-## News
-None
