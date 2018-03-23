@@ -65,3 +65,7 @@
   - ReadMe:   +10 point
   - late:     -10 point/days
   - Wrong form: -5 point/each
+
+
+## News
+None
