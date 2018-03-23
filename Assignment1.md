@@ -32,7 +32,7 @@
   - Never change the file name. If you do, our grading system cannot find your file, and your file will not be graded.
   - Please click 'Restart & run all' button in ipynb file before submit.
   
-![restart & run all](/MindSKKU/NNE/blob/master/pictures/Screen%20Shot%202018-03-23%20at%209.11.22%20PM.png?raw=true" alt="Screen Shot 2018-03-23 at 9.11.22 PM.png)
+![restart & run all](https://github.com/MindSKKU/NNE/blob/master/pictures/Screen%20Shot%202018-03-23%20at%209.11.22%20PM.png)
   - Writting readMe file will give you 10 point. Just feel free to write your opinion. We will adjust difficulty of assignment 2 based on your opinion.
 
 ### 5. Please do not include
