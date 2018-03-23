@@ -35,7 +35,7 @@
 ![restart & run all](https://github.com/MindSKKU/NNE/blob/master/pictures/Screen%20Shot%202018-03-23%20at%209.11.22%20PM.png)
   - Writting readMe file will give you 10 point. Just feel free to write your opinion. We will adjust difficulty of assignment 2 based on your opinion.
 
-### 5. Please do not include
+### 5. Do not include
   - YourAnswer.pyc
   - **cifar-10-batches-py**
 ****
