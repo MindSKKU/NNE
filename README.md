@@ -1,5 +1,5 @@
 # Neural Network Engineering
-This page will give you information of assignment.
+This page will give you information of assignments.
 
 ## Q&A
 - You can ask question in [issue](https://github.com/MindSKKU/NNE/issues).
