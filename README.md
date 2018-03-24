@@ -2,7 +2,7 @@
 This page will give you information of assignment.
 
 ## Q&A
-- You can ask or discuss in [issue tap](https://github.com/MindSKKU/NNE/issues).
+- You can ask question in [issue](https://github.com/MindSKKU/NNE/issues).
 
 ## Assignment List
 
@@ -19,5 +19,5 @@ This page will give you information of assignment.
   - Office: 23215
   - Mail: None
 
-
+You can send us a mail, but we recommend you to use issue because sharing Q&A is fair and helpful for other students.
 
