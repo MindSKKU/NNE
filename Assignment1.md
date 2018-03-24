@@ -9,7 +9,7 @@ None
 ### 2. Assignment download link
 [Click here](https://drive.google.com/open?id=1t0Rc1aPKVCWHue20uu2fee63YFAo86ct)
 
-(180322) Assignment file changed. Please download again.
+(180322) Assignment file changed. Please download it again.
 
 ### 3. Assignment files
 - **(dir)cifar-10-batches-py**
