@@ -2,7 +2,8 @@
 This page will give you information of assignments.
 
 ## Q&A
-- You can ask question in [issue](https://github.com/MindSKKU/NNE/issues). We do not work on the weekend.
+- You can ask question in [issue](https://github.com/MindSKKU/NNE/issues).
+- We do not work on the weekend.
 
 ## Assignment List
 
