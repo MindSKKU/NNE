@@ -2,7 +2,7 @@
 This page will give you information of assignment.
 
 ## Q&A
-- You can ask or discuss something in [issue tap](https://github.com/MindSKKU/NNE/issues).
+- You can ask or discuss in [issue tap](https://github.com/MindSKKU/NNE/issues).
 
 ## Assignment List
 
