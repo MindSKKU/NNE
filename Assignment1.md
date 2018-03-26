@@ -27,10 +27,9 @@ None
 
 ### 4. Submit file format (please keep this form)
 - *YOURSTUDENTNUMBER*.zip (ex. 2018711111.zip)
-  - **(dir)YOURSTUDENTNUMBER**
-    - YourAnswer.py
-    - NNE_assignment1_Softmax.ipynb
-    - ReadMe
+  - YourAnswer.py
+  - NNE_assignment1_Softmax.ipynb
+  - ReadMe
 - About file submition
   - Never change the file name. If you do, our grading system cannot find your file, and your file will not be graded.
   - Please click 'Restart & run all' button in ipynb file before submit.
