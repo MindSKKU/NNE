@@ -9,7 +9,7 @@ This page will give you information of assignments.
 ## Assignment List
 
 - [Assignment 1](https://github.com/MindSKKU/NNE/blob/master/Assignment1.md)
-  - Due: 18.04.01(Sun)
+  - Due: 18.04.02(Mon)
 - Assignemnt 2
 
 ## TA contact info
