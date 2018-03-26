@@ -27,8 +27,8 @@ None
 
 ### 4. Submit file format (please keep this form)
 - *YOURSTUDENTNUMBER*.zip (ex. 2018711111.zip)
-  - **(dir)YOURSTUDENTNUMBER**
-    - YourAnswer.py
+  - **(dir)YOURSTUDENTNUMBER**
+    - YourAnswer.py
     - NNE_assignment1_Softmax.ipynb
     - ReadMe
 - About file submition
