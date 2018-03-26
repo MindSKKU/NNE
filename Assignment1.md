@@ -31,6 +31,8 @@ None
     - YourAnswer.py
     - NNE_assignment1_Softmax.ipynb
     - ReadMe
+> Please compress not just your files, but also directory which name is your student number.  
+    
 - About file submition
   - Never change the file name. If you do, our grading system cannot find your file, and your file will not be graded.
   - Please click 'Restart & run all' button in ipynb file before submit.
