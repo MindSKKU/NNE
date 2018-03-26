@@ -5,7 +5,7 @@ None
 
 ## Notification
 ### 1. Due
-18.04.02(Mon)
+18.04.01(Sun)
 ### 2. Assignment download link
 [Click here](https://drive.google.com/open?id=1t0Rc1aPKVCWHue20uu2fee63YFAo86ct)
 
