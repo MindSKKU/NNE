@@ -5,7 +5,7 @@ This page will give you information of assignments.
 - I recommend you to use Anaconda and jupyter notebook for python and Ipython(ver 3.6). You can download in (https://www.anaconda.com/download/). For Windows users, you can execute jupyter notebook through cmd, inputting a command 'jupyter notebook'. Adding anaconda to the system PATH environment variable is recommended for convenience when you are installing.
 
 ## Tutorials
-Our assignment requires basic skills of python and their packages. If you are not familiar with them, you can do nothing. So if you are beginner, follow these sources before assignment.
+Our assignment requires basic skills of python and their packages. If you are not familiar with them, **you can do nothing**. So if you are beginner, follow these sources before assignment.
 
 - Python Tutorial
 You should know at least loops, list, and classes.
