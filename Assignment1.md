@@ -31,7 +31,8 @@ None
     - YourAnswer.py
     - NNE_assignment1_Softmax.ipynb
     - ReadMe
-> Please compress not just your files, but also directory which name is your student number.  
+> Please compress not just your files, but also directory with your student number.
+> Window OS automatically generate directory with same name of zip file. However, when I download your file from icampus, it changes your zip file name. That's why I need another directory in your folder.
     
 - About file submition
   - Never change the file name. If you do, our grading system cannot find your file, and your file will not be graded.
