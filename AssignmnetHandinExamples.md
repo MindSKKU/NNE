@@ -11,7 +11,7 @@
     ~/path$ zip -r 201XXXXXXX.zip 201XXXXXXX
     
     
-## Mac OS
+## Mac OS, Window OS
 ### Wrong example
 ![wrong](https://github.com/MindSKKU/NNE/blob/master/pictures/Screen%20Shot%202018-03-28%20at%203.51.45%20PM.png)
 
