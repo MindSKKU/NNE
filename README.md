@@ -9,10 +9,12 @@ Our assignment requires basic skills of python and their packages. If you are no
 
 - Python Tutorial
 You should know at least loops, list, and classes.
+
 https://www.tutorialspoint.com/python/index.htm
 
 - Numpy Tutorial
 Everything is important. 
+
 https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
 
 ## Q&A
