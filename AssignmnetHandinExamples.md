@@ -13,5 +13,7 @@
     
 ## Mac OS
 ### Wrong example
+![wrong](https://github.com/MindSKKU/NNE/blob/master/pictures/Screen%20Shot%202018-03-28%20at%203.51.45%20PM.png)
 
 ### Correct example
+![Correct](https://github.com/MindSKKU/NNE/blob/master/pictures/Screen%20Shot%202018-03-28%20at%203.51.59%20PM.png)
