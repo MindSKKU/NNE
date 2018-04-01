@@ -1,5 +1,7 @@
 # Assignment Handin Examples
 
+We don't know how to decompress **.rar** file. Do not use it.
+
 ## Linux OS
 ### Wrong example
     ~/path/201XXXXXXX$ ls
@@ -11,9 +13,13 @@
     ~/path$ zip -r 201XXXXXXX.zip 201XXXXXXX
     
     
-## Mac OS, Window OS
+## Mac OS
 ### Wrong example
 ![wrong](https://github.com/MindSKKU/NNE/blob/master/pictures/Screen%20Shot%202018-03-28%20at%203.51.45%20PM.png)
 
 ### Correct example
 ![Correct](https://github.com/MindSKKU/NNE/blob/master/pictures/Screen%20Shot%202018-03-28%20at%203.51.59%20PM.png)
+
+
+## Window OS
+In window OS, if you decompress zip file, program makes another directory with same name of zip file. But in Linux OS, default is decompressing in the current directory. So we recommend you to unzip your file on Linux and check whether another directory is created or not.
