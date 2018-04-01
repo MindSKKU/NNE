@@ -7,7 +7,7 @@
 
 This is grading results for someone who hand in before 04/01 14:00.
 
-There are 22 person, but only 8 person used right format.
+There are 22 persons, but only 8 persons used right format.
 
 Someone compressed file with .rar format. 
 
