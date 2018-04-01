@@ -2,6 +2,11 @@
 ****
 ## News
 
+#### 18.04.01
+[Grading Result for Assignment 1.](https://github.com/MindSKKU/NNE/blob/master/Assignment%201%20Grading%20Result.md)
+
+Many person does not keep **submit file format**, so we decided that the penalty for wrong format is now -30 point. It is essential because we have to grade around 70 people. 
+#### 18.03.22
 [Assignment hand in example.](https://github.com/MindSKKU/NNE/blob/master/AssignmnetHandinExamples.md)
 
 ## Notification
@@ -71,5 +76,6 @@
   - Test4:    +10 point
   - ReadMe:   +10 point
   - late:     -10 point/days
-  - Wrong form: -5 point/each
+  - Wrong format: -30 point
+  - editing something out of the code box: -5point/each
 
