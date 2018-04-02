@@ -1,6 +1,6 @@
 # Assignment Handin Examples
 
-We don't know how to decompress **.rar** file. Do not use it.
+Do not use .rar file. Only .zip file can be accepted.
 
 ## Linux OS
 ### Wrong example
