@@ -3,6 +3,13 @@
 ## News
 
 #### 18.04.02
+
+한글 주석 관련해서 에러가 나는 경우가 있습니다. 아래 코드를 1번 줄에 쓰거나 영어 주석을 사용해주세요.
+
+    #-*- coding: utf-8 -*-
+    
+
+#### 18.04.02
 [Second Grading Result for Assignment 1.](https://github.com/MindSKKU/NNE/blob/master/Assignment1_Grading_result_Updated.md)
 
 This is the grading results with submited before 04/02 08:00. Check your answer and if you used wrong file format, hand in again.
