@@ -1,8 +1,8 @@
 # Assignment 1 - Softmax classifier
 ****
 ## Grading Result
-
-Grading results
+### 18.04.03
+Assignment1 grading results[https://github.com/MindSKKU/NNE/blob/master/Assignment1GradingResult.md]
 
 ## News
 
