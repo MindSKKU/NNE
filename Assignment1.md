@@ -1,5 +1,9 @@
 # Assignment 1 - Softmax classifier
 ****
+## Grading Result
+
+Grading results
+
 ## News
 
 #### 18.04.02
