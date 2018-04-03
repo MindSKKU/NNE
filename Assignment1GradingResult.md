@@ -1,6 +1,8 @@
 # Assignment1 Results
 
-This is the evaluated results based on your answer source code. If you want to complain, visit our lab.
+This is the test case results by using your answer source code. If you passwd every test case, your score will be 100point. Otherwise, we will check your .ipynb file how did you understand the assignment. If your understanding looks enough, we will give full score.
+
+If you want to complain, visit our lab.
 
 ### Metrics
 - Time: running time
@@ -14,6 +16,8 @@ This is the evaluated results based on your answer source code. If you want to c
   - Someone still did not contained directory in zip file.
 
 - Check the error.
-  - The RuntimeError is actually RuntimeError + compile error.
+  - The RuntimeError is actually RuntimeError + compile error.
+  - Many error is occured because of the unknown variables.
   
-  
+### Result excel file available here.
+https://github.com/MindSKKU/NNE/blob/master/pictures/Assignment_grading.xlsx
