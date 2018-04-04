@@ -1,6 +1,6 @@
 # Assignment1 Results
 
-This is the test case results by using your answer source code. If you passwd every test case, your score will be 100point. Otherwise, we will check your .ipynb file how did you understand the assignment. If your understanding looks enough, we will give full score.
+This is the test case results by using your answer source code. If you passwd every test case, you will get great score.
 
 If you want to complain, visit our lab.
 
@@ -16,9 +16,9 @@ If you want to complain, visit our lab.
   - Someone still did not contained directory in zip file.
 
 - Check the error.
-  - The RuntimeError is actually RuntimeError + compile error.
+  - The RuntimeError contains RuntimeError + compile error.
   - Many errors are occured by the unknown variables.
-
-  
-### Result excel file available here.
+  
+ 
+## Result excel file available here.
 https://github.com/MindSKKU/NNE/blob/master/pictures/Assignment_grading.xlsx
