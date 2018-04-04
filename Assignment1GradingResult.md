@@ -10,14 +10,15 @@ If you want to complain, visit our lab.
 
 ### What you have to do is:
 - Check your file format.
-  - **We reduced the file format penalty for assignment 1 to be -5 point.(not for the others)**
+  - **We reduced the file format penalty for assignment 1 to be -5 point.(Other assighment will be -30point)**
   - Someone used .rar file. I cannot open them both linux and mac OS unar. Please upload your files again.
   - Someone used directory name YOURSTUDENTNAME instead of 201xxxxxxx. 
   - Someone still did not contained directory in zip file.
 
 - Check the error.
   - The RuntimeError is actually RuntimeError + compile error.
-  - Many error is occured because of the unknown variables.
+  - Many errors are occured by the unknown variables.
+
   
 ### Result excel file available here.
 https://github.com/MindSKKU/NNE/blob/master/pictures/Assignment_grading.xlsx
