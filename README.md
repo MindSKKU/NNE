@@ -26,7 +26,8 @@ https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
 
 - [Assignment 1](https://github.com/MindSKKU/NNE/blob/master/Assignment1.md)
   - Due: 18.04.02(Mon)
-- Assignemnt 2
+- [Assignemnt 2](https://github.com/MindSKKU/NNE/blob/master/Assignment2.md)
+  - Due: 18.04.xx(determined soon)
 
 ## TA contact info
 
