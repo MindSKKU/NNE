@@ -25,8 +25,9 @@
   - **(dir)YOURSTUDENTNUMBER**
     - YourAnswer.py
     - utils.py
+    - readme.txt
     - SKKU_assignment2_TwoLayerNN_sol.ipynb
-    - ReadMe
+    
 > Please compress not just your files, but also directory with your student number.
 > [This is an Example.](https://github.com/MindSKKU/NNE/blob/master/AssignmnetHandinExamples.md)
     
