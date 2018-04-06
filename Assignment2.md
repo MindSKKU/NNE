@@ -2,7 +2,7 @@
 ### 1. Due
 18.04.22(Sun) 11:59 p.m.
 ### 2. Assignment download link
-[Click here](https://drive.google.com/open?id=1r04LSfwkcIxOUr6CwakW6WEiZwQ_X87Y)
+Click here
 
 ### 3. Assignment files
 - **(dir)cifar-10-batches-py**
