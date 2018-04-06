@@ -1,8 +1,14 @@
+## News
+
+#### 18.04.06
+
+Some assignment codes are amended a little. Please download again if you already downloaded the assignment file.(Sorry)
+
 ## Notification
 ### 1. Due
 18.04.22(Sun) 11:59 p.m.
 ### 2. Assignment download link
-Click here
+[Click here](https://drive.google.com/open?id=12a4GT3kDzPmLbP7EvQ8rFSWWe7a34qoU)
 
 ### 3. Assignment files
 - **(dir)cifar-10-batches-py**
