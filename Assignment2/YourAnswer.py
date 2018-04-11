@@ -45,7 +45,7 @@ def softmax(x):
 
 
 
-def cross_entropy_loss(score, target, weights, regularization):
+def cross_entropy_loss(prob, target, weights, regularization):
     
     """
     cross_entropy_loss 함수를 생성하라.
@@ -55,7 +55,7 @@ def cross_entropy_loss(score, target, weights, regularization):
     L2 Regularization은 0.5를 곱하여 계산하라 (미분 할 때 계산적 이점)
     
     Inputs : 
-        - score : (N, D) 차원의 벡터
+        - prob : (N, D) 차원의 벡터
         - target : (N, D) 차원의 벡터 (One-hot encoding)
         - weights : N개의 Weight 벡터
         - regularization : regularization를 결정하는 0과 1사이의 수
@@ -71,7 +71,7 @@ def cross_entropy_loss(score, target, weights, regularization):
     Calculate L2 Regularization with multiplying 0.5. (advantage when differentiating)
     
     Inputs : 
-        - score : vector with dimension (N, D)
+        - prob : vector with dimension (N, D)
         - target : vector with dimension (N, D) (One-hot encoding)
         - weights : N number of Weight vectors
         - regularization : a number between 0 to 1, which sets regularization
@@ -231,7 +231,7 @@ class Sigmoid:
     
     forward() : 
         - x : (N,D) 차원의 벡터
-        - return : ReLU output
+        - return : Sigmoid output
     
     backward() : 
         - dout : backpropagation으로 오는 delta 값
@@ -244,7 +244,7 @@ class Sigmoid:
     
     forward() : 
         - x : vector with dimension (N,D)
-        - return : ReLU output
+        - return : Sigmoid output
     
     backward() : 
         - dout : delta from backpropagation
