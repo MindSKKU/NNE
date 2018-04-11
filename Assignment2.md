@@ -1,5 +1,11 @@
 ## News
 
+#### 18.04.11
+
+Minor comment correction. 
+- You can download new file [here](https://github.com/MindSKKU/NNE/blob/master/Assignment2/YourAnswer.py)
+- Or you can easily check which parts have been changed [here](https://github.com/MindSKKU/NNE/commit/1a041740fa0c6219c6fa205698b6da9dce969eff)
+
 #### 18.04.06
 
 Some assignment codes are amended a little. Please download again if you already downloaded the assignment file.(Sorry)
