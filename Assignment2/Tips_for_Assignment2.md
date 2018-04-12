@@ -1,6 +1,6 @@
 # Tips for Assignment2
 
-Many students are confused because of the input and output name of each layers. So we briefly explained it.
+Many students are confused by the input and output name of each layers. We briefly explained it.
 
 ### Forward pass
   
