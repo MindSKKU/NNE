@@ -11,6 +11,7 @@ Many students are confused by the input and output name of each layers. We brief
     s  : score        (n, c)
     p  : probability  (n, c)
     l  : loss         (1)
+    
 where i: i-th layer
 
 ### Softmax function
