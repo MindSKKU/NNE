@@ -1,5 +1,9 @@
 ## News
 
+#### 18.04.12
+
+[Tips uploaded](https://github.com/MindSKKU/NNE/blob/master/Assignment2/Tips_for_Assignment2.md)
+
 #### 18.04.11
 
 Minor comment correction. 
