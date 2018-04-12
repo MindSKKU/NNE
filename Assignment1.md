@@ -2,7 +2,7 @@
 ****
 ## Grading Result
 ### 18.04.03
-[Assignment1 grading results](https://github.com/MindSKKU/NNE/blob/master/Assignment1GradingResult.md)
+[Assignment1 grading results](https://github.com/MindSKKU/NNE/blob/master/Assignment1/Assignment1GradingResult.md)
 
 ## News
 
@@ -14,12 +14,12 @@
     
 
 #### 18.04.02
-[Second Grading Result for Assignment 1.](https://github.com/MindSKKU/NNE/blob/master/Assignment1_Grading_result_Updated.md)
+[Second Grading Result for Assignment 1.](https://github.com/MindSKKU/NNE/blob/master/Assignment1/Assignment1_Grading_result_Updated.md)
 
 This is the grading results with submited before 04/02 08:00. Check your answer and if you used wrong file format, hand in again.
 
 #### 18.04.01
-[Grading Result for Assignment 1.](https://github.com/MindSKKU/NNE/blob/master/Assignment%201%20Grading%20Result.md)
+[Grading Result for Assignment 1.](https://github.com/MindSKKU/NNE/blob/master/Assignment1/Assignment%201%20Grading%20Result.md)
 
 Many person does not keep **submit file format**, so we decided that the penalty for wrong format is now -30 point. It is essential because we have to grade around 70 people. 
 #### 18.03.22
