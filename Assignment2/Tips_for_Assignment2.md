@@ -4,7 +4,7 @@ Many students are confused by the input and output name of each layers. We brief
 
 ### Forward pass
 
-    X  : input        (n, d) 
+    X  : input        (n, d) 
     W_i: weight       (d, h_1) / (h_i, h_i+1) 
     Z_i: mul          (n, h_i)
     H_i: activated    (n, h_i) 
