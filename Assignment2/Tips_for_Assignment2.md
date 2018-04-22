@@ -37,4 +37,4 @@ where i: i-th layer
 ### Affine
 
     front :  X   or H_i
-    back  :  H_1 or H_i+1
+    back  :  Z_1 or Z_i+1
