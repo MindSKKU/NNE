@@ -30,6 +30,8 @@ https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
   - Due: 18.04.22(Sun) 11:59 p.m.
 
 ## TA contact info
+about assignment1:
+Assignment1 grading policy has been changed. (test: total 60point / Readme: 10point / Submit: 30point / wrong format: -5point / -10point/days)
 
 - Sunghwan Joo
   - Office: 23215
