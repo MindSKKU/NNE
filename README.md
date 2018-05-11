@@ -3,7 +3,7 @@
 # **About Project and Paper Survey**
 
 Because of the system maintenance, i-campus temporary stuffed until midnight.
-For this reason, the due date is now 14 May 23:59.
+For this reason, the due date is delayed to 14 May 23:59.
 You still should submit hard-copy on 14 May class time.
 
 ---
