@@ -1,3 +1,13 @@
+---
+# Important
+# **About Project and Paper Survey**
+
+Because of the system maintenance, i-campus temporary stuffed until midnight.
+For this reason, the due date is delayed to 14 May 2018 23:59. (i-campus)
+You still should submit hard-copy on 14 May class time.
+
+---
+
 # Neural Network Engineering
 This page will give you information of assignments.
 
