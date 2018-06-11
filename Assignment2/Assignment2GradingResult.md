@@ -2,7 +2,7 @@
 
 This is the test case results by using your answer source code. If you passwd every test case, you will get great score.
 
-If you want to complain, visit our lab.
+If you want to complain, visit our lab or send an e-mail to (sibjoma@skku.edu).
 
 ### Metrics
 - Time: running time
