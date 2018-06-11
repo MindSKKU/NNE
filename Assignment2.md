@@ -77,3 +77,18 @@ Some assignment codes are amended a little. Please download again if you already
         #------------------------------END OF YOUR CODE-----------------------------------#
 
 ****
+## Grading Policy
+  - Total:    150 point
+  - Submit:   +30 point
+  - Runnable: +20 point
+  - Test1:    +10 point(+5 point each)
+  - Test2:    +10 point(+5 point each)
+  - Test3:    +10 point(+5 point each)
+  - Test4:    +10 point(+5 point each)
+  - Test5:    +20 point(+5 point each)
+  - Test6:    +20 point(+5 point each)
+  - Test7:    +10 point(+5 point each)
+  - ReadMe:   +10 point
+  - late:     -10 point/day
+  - Wrong format: -30 point
+  - editing something out of the code box: -5point/each
