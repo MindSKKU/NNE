@@ -1,4 +1,8 @@
 ## News
+****
+## Grading Result
+### 18.06.11
+[Assignment2 grading results](https://github.com/MindSKKU/NNE/blob/master/Assignment2/Assignment2GradingResult.md)
 
 #### 18.04.12
 
